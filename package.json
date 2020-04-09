@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "src/server.js",
+  "main": "/src/server.js",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
@@ -14,7 +14,9 @@
   },
   "devDependencies": {
     "jest": "^25.2.6",
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.3",
     "supertest": "^4.0.2"
-  }
+  },
+  "repository": "https://github.com/RodrigoCSoares-fs/desafioRocketseat01-nodejs.git",
+  "author": "Rodrigo Soares <rodrigo.soares0642@outlook.com.br>"
 }
